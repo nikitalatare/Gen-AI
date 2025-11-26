@@ -1,1 +1,1 @@
-Building MR.HelpMate AI
+Building Mr.HelpMate AI
