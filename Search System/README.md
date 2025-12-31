@@ -1,27 +1,27 @@
-# ShopAssist – Building a Custom Chatbot with LLMs
+# HelpMate AI – Building an Effective Search System
 ## Overview
 
-ShopAssist is an AI-powered chatbot designed to assist users in a retail or e-commerce environment. The chatbot uses Large Language Models (LLMs) to understand user queries and provide accurate, context-aware responses related to products, FAQs, and general assistance.
+HelpMate AI is an intelligent semantic search system designed to retrieve relevant information based on the meaning of user queries rather than exact keyword matches. The system leverages text embeddings and LLM-powered retrieval techniques to deliver accurate and context-aware search results.
 
-This project demonstrates how LLMs can be applied to build conversational systems that improve customer experience and reduce dependency on manual support.
+This project focuses on improving traditional search by using modern AI-based information retrieval methods.
 
 ## Objectives
 
-Build a conversational chatbot using LLMs
+Build a semantic search pipeline
 
-Enable natural, human-like interactions
+Improve relevance and accuracy of search results
 
-Handle product queries and support-related questions effectively
+Enable intelligent information discovery
 
 ## Key Features
 
-Context-aware responses using LLMs
+Embedding-based semantic search
 
-Prompt engineering for improved response quality
+Contextual document retrieval
 
-Modular and extensible chatbot design
+Relevance ranking and scoring
 
-Easy integration with retail platforms
+Scalable and efficient search workflow
 
 ## Tech Stack
 
@@ -29,22 +29,25 @@ Python
 
 Large Language Models (LLMs)
 
-Prompt Engineering
+Text Embeddings
 
-NLP Techniques
+Vector Similarity Search
+
+Information Retrieval Techniques
+
 
 ## Learnings
 
-Designing conversational AI systems
+Implementing semantic search using embeddings
 
-Applying prompt engineering techniques
+Designing efficient information retrieval systems
 
-Building scalable LLM-based applications
+Applying LLMs beyond chat-based applications
 
 ## Use Cases
 
-E-commerce customer support
+Knowledge base search
 
-Product discovery assistant
+Document retrieval systems
 
-Automated FAQ handling
+Internal helpdesk or support search
